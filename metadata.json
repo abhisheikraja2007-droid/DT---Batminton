@@ -1,0 +1,7 @@
+{
+  "name": "AceAI - Badminton Coach",
+  "description": "AI badminton coach app for player telemetry, live pose detection, kinetic swing analysis, drill training, and stroke mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
