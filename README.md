@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Olympic-Caliber Biomechanical Telemetry & Conversational AI Coaching on Commodity Smartphones</h3>
-  <p><b>Course:</b> 21CS601 - Design Thinking and Innovation in Engineering</p>
+  <p><b>Course:</b> 25CS001 - Design Thinking and Innovation in Engineering</p>
   <p><b>Repository:</b> <a href="https://github.com/abhisheikraja2007-droid/DT---Batminton">DT---Batminton</a> | <b>Demo Video:</b> <a href="https://drive.google.com/file/d/11Bh4mi2BMfjptMPx0DiyxvauRImfQfLy/view?usp=drive_link">Google Drive Demonstration</a></p>
 </div>
 
